@@ -1,0 +1,70 @@
+body {
+    background: #0C2939;
+    background-image: url("background branco.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-size: 80%;
+    padding: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+form {
+    font-family: Verdana,Tahoma,sans-serif;
+    font-size: 15px;
+    max-width: 500px;
+    margin:0 auto;
+    
+}
+
+h1 {
+    margin-bottom: 20px;
+    margin-left:37%;
+    margin-top: 50%;
+    font-family: Impact;
+    font-size: 300%;
+    color: #000000;
+}
+
+input, textarea {
+    width: 400px;
+    padding: 15px;
+    color: black;
+    margin-left: 20px;
+    margin-top: 30px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 5px;
+    border: 4px solid;
+}
+
+input:hover, textarea:hover, input:focus, textarea:focus {
+    border-color: #000066;
+    box-shadow: 5px 0px 9px #000000;
+    background-color: #eeff00;
+    color: black;
+    font-weight: bold;
+}
+
+.enviar {
+    background-color: #000000;
+    height: 40px;
+    width: 100px;
+    line-height: 0px;
+    font-weight:bold;
+    font-size: 20px;
+    border-radius: 5px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 5px;
+    border: 3px solid;
+    border-color: rgb(117, 117, 117);
+    color: rgb(255, 255, 255);
+    margin-left: 183px;
+    margin-top: 35px;
+}
+
+textarea {
+    width: 400px;
+    height: 120px;
+    line-height: 20px;
+    max-width: 400px;
+}
