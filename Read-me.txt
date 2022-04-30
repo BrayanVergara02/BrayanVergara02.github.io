@@ -1,0 +1,4 @@
+Para aprovação no login, você deve utilizar o Usuário "admin" e a senha "admin".
+Logo após a aprovação somente irá exibir uma mensagem dizendo "sucesso ao realizar o login".
+Caso você coloque o usuário e a senha incorreta, será exibido uma mensagem dizendo "Usuário e/ou senha incorretos".
+Os campos são de preenchimento obrigatório.
